@@ -1,0 +1,22 @@
+{
+	"params":
+	{
+		"local_server":"True",
+		"local_uri":"mysql://root:@localhost/coding",
+		"prod_uri":"mysql://root:@localhost/coding",
+		"fb_url":"https://facebook.com/coding",
+		"tw_url":"https://twitter.com/coding",
+		"gt_url":"https://github.com/coding",
+		"blog_name":"Coding Services",
+		"tag_line":"Anytime,Anywhere,At your Services",
+		"gmail-user":"superman.md2001@gmail.com",
+		"gmail-password":"khaleeltaj",
+		"about_txt":"It is fun to lern coding.Through this website you can learn coding easily and in more fun manner.",
+		"no_of_posts":4,
+		"login_img":"login.svg",
+		"admin_user":"khajababa",
+		"admin_password":"khaleeltaj",
+		"upload_location":"C:\\Users\\Khaja\\Desktop\\petra\\static"
+
+	}
+}
